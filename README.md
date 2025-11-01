@@ -4,7 +4,7 @@
 - 🌱 I’m currently Working: **Go-Fiber, PostgreSQL, Docker, Kubernetes, Ubuntu Server, Python FastAPI**
 
 - 📫 How to reach me **mazlumtekin.kariyer@gmail.com**
-- My Website: mazlumtekin.com
+- My Website: **https://www.mazlumtekin.com**
 
 
 <h3 align="left">Connect with me:</h3>
